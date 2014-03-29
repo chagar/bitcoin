@@ -3,6 +3,9 @@ Dorkcoin Core integration/staging tree
 
 http://www.dorkcoin.org
 
+Buy our paraphernelia! - http://www.cafepress.com/+dork_coin_purse,618932717
+
+Copyright (c) 2009-2013 Bitcoin Core Developers
 Copyright (c) 2009-2014 Dorkcoin Core Developers
 
 What is Dorkcoin?
@@ -29,12 +32,12 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Bitcoin
+If it is a simple/trivial/non-controversial change, then one of the Dorkcoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
 submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development).
+[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=dorkcoin-development).
 
 The patch will be accepted if there is broad consensus that it is a good thing.
 Developers should expect to rework and resubmit patches if the code doesn't
@@ -42,8 +45,8 @@ match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or a
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin.
+completely stable. [Tags](https://github.com/dorkcoin/dorkcoin/tags) are created
+regularly to indicate new official, stable release versions of Dorkcoin.
 
 Testing
 -------
@@ -61,11 +64,11 @@ submit new unit tests for old code. Unit tests can be compiled and run (assuming
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
 used for manual QA testing — a link to them will appear in a comment on the
-pull request posted by [BitcoinPullTester](https://github.com/BitcoinPullTester). See https://github.com/TheBlueMatt/test-scripts
+pull request posted by [DorkcoinPullTester](https://github.com/DorkcoinPullTester). See https://github.com/TheBlueMatt/test-scripts
 for the build/test scripts.
 
 ### Manual Quality Assurance (QA) Testing
 
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
-See https://github.com/bitcoin/QA/ for how to create a test plan.
+See https://github.com/dorkcoin/QA/ for how to create a test plan.
