@@ -3,9 +3,10 @@ Dorkcoin Core integration/staging tree
 
 http://www.dorkcoin.org
 
-Buy our paraphernelia! - http://www.cafepress.com/+dork_coin_purse,618932717
+Buy a Dorkcoin purse to store your coins! - http://www.cafepress.com/+dork_coin_purse,618932717
 
 Copyright (c) 2009-2013 Bitcoin Core Developers
+
 Copyright (c) 2009-2014 Dorkcoin Core Developers
 
 What is Dorkcoin?
