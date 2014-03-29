@@ -1,26 +1,26 @@
-Bitcoin Core integration/staging tree
+Dorkcoin Core integration/staging tree
 =====================================
 
-http://www.bitcoin.org
+http://www.dorkcoin.org
 
-Copyright (c) 2009-2013 Bitcoin Core Developers
+Copyright (c) 2009-2014 Dorkcoin Core Developers
 
-What is Bitcoin?
+What is Dorkcoin?
 ----------------
 
-Bitcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Dorkcoin is an experimental new digital currency for dorks that enables instant payments to
+dorks, anywhere in the world. Dorkcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+out collectively by dorks. Dorkcoin Core is the name of open source
+software which enables the use of this currency by dorks.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see http://www.bitcoin.org/en/download.
+the Dorkcoin Core software, see http://www.dorkcoin.org/en/download.
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Dorkcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
